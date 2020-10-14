@@ -19,3 +19,4 @@ class Solution:
                     ans += go(i, j)
 
         return ans
+s = Solution()
